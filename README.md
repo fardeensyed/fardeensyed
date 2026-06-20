@@ -24,9 +24,11 @@
 
 ## 👨‍💻 About me
 
+## 👨‍💻 About me
+
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 **🎓 Education**
 Master of Computer Applications (MCA) — Presidency University, Bengaluru
@@ -47,20 +49,23 @@ Bengaluru, India 🇮🇳
 - AI-powered product recommendation engine
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top">
 
 > *"Build AI solutions that solve real-world problems."*
 
-<br/>
+**🎯 Currently focused on**
 
-```yaml
-🤖 Building multi-agent AI systems & orchestration platforms
-🔗 Engineering RAG pipelines & LLM applications with LangChain
-🧠 Sharpening core ML theory & DSA fundamentals
-⚡ Architecting FastAPI backends for production-grade AI products
-📊 Designing NLP pipelines for large-scale data analysis
-🎯 Interview-prepping for AI/ML engineering roles
-```
+🤖&nbsp;Building multi-agent AI systems & orchestration platforms
+
+🔗&nbsp;Engineering RAG pipelines & LLM applications with LangChain
+
+🧠&nbsp;Sharpening core ML theory & DSA fundamentals
+
+⚡&nbsp;Architecting FastAPI backends for production-grade AI products
+
+📊&nbsp;Designing NLP pipelines for large-scale data analysis
+
+🎯&nbsp;Interview-prepping for AI/ML engineering roles
 
 </td>
 </tr>
