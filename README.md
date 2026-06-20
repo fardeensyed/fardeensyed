@@ -24,7 +24,6 @@
 
 ## 👨‍💻 About me
 
-## 👨‍💻 About me
 
 <table>
 <tr>
@@ -103,6 +102,7 @@ Bengaluru, India 🇮🇳
 </table>
 
 <br/>
+
 ## 🛠️ Technologies & tools
 
 <div align="center">
