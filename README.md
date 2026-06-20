@@ -46,9 +46,12 @@ Bengaluru, India 🇮🇳
 <br/>
 
 ```yaml
-status: actively job hunting 🔭
-open_to: AI/ML Engineer roles
-stack: Python · LangChain · FastAPI
+🤖 Building multi-agent AI systems & orchestration platforms
+🔗 Engineering RAG pipelines & LLM applications with LangChain
+🧠 Sharpening core ML theory & DSA fundamentals
+⚡ Architecting FastAPI backends for production-grade AI products
+📊 Designing NLP pipelines for large-scale data analysis
+🎯 Interview-prepping for AI/ML engineering roles
 ```
 
 </td>
@@ -57,35 +60,84 @@ stack: Python · LangChain · FastAPI
 
 <br/>
 
+## 💼 Experience
+
+<table>
+<tr>
+<td valign="top" width="100%">
+
+### 🏢 Full Stack AI with Python Intern — Zetacoding Innovative Solutions
+**Feb 2026 – May 2026** · Bengaluru, Karnataka
+
+- Built **InsightLoop**, a production-grade B2B SaaS platform for AI-powered customer feedback analysis using FastAPI, React.js, PostgreSQL, VADER, KeyBERT, and LSTM; processed 10,000+ feedback records through an end-to-end ML pipeline from ingestion to insight delivery
+- Engineered a multi-model NLP pipeline combining sentiment analysis (VADER), keyword extraction (KeyBERT), and LSTM-based trend forecasting — achieved 88%+ sentiment classification accuracy across product categories
+- Designed an interactive React dashboard with real-time sentiment trends, topic clusters, and business insight cards — reduced manual feedback review time by 65% for client teams
+- Developed a Bitcoin Price Direction Prediction system training 5+ algorithms (LSTM, Linear Regression, Random Forest, SVM, Logistic Regression); Random Forest achieved the highest accuracy at 87%; built a Flask UI for real-time prediction visualization
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="100%">
+
+### 🏢 Full Stack Developer Intern — EduPhoenix Solutions
+**May 2024 – Jun 2024** · Bengaluru, Karnataka
+
+- Developed responsive MERN web applications including a food-ordering platform with authentication, order tracking, and third-party payment integration
+- Engineered an airline booking system with admin/user dashboards, JWT authentication, multi-filter flight search, and MySQL-backed booking workflows using PHP, Java, and MySQL
+
+</td>
+</tr>
+</table>
+
+<br/>
 ## 🛠️ Technologies & tools
 
 <div align="center">
 
-**Languages & databases**
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="SQL" title="SQL"/></a>
+</p>
 
-**AI / ML & web frameworks**
-<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/🤗_hugging_face-FFD21E?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=4B8BBE" />
-<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<h4>🤖 AI / ML & frameworks</h4>
+<p>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=langchain&theme=dark" alt="LangChain" title="LangChain"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn" title="scikit-learn"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/></a>
+</p>
 
-**Infra & tools**
-<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<h4>🌐 Backend & web</h4>
+<p>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP"/></a>
+</p>
+
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+</p>
+
+<h4>🔧 DevOps & tools</h4>
+<p>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
+</p>
 
 </div>
-
-<br/>
 
 ## 📊 GitHub metrics
 
