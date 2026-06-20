@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Syed%20Jalaluddin%20Fardeen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20LLM%20Applications%20•%20Machine%20Learning%20•%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<h1>Hi, I'm Syed Jalaluddin Fardeen 👋</h1>
+<p><b>AI Engineer · LLM Applications · Machine Learning · Full Stack Developer</b></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;LLM+%26+Agentic+AI+Builder;FastAPI+•+Python+•+LangChain;Building+Production-Ready+AI+Systems"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fardeensyed/fardeensyed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fardeensyed/fardeensyed/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fardeensyed/fardeensyed/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
 
 <br/>
 
